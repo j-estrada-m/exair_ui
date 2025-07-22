@@ -17,7 +17,17 @@ int main(int argc, char *argv[])
 
   w->setWindowTitle("Annulus Floor Crawler Control");
   w->setCentralWidget(central);
+  QLabel * logo = new QLabel;
+  
+  logo->setFixedSize(860,100);
+  logo->setScaledContents(true);
+  QPixmap logomap("../include/exair_ui/FIU_Applied-Research-Center-Transparent3.png");
+  if (logomap.isNull()) {
+    qWarning() << "Failed to load PNG!";
+}
 
+  logo->setPixmap(logomap);
+  layout->addWidget(logo);
   layout->addWidget(viewer.label1());
   layout->addWidget(viewer.label2());
   central->setLayout(layout);
