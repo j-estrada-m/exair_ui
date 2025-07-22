@@ -31,6 +31,10 @@ private:
   void imageCallback2(const sensor_msgs::msg::Image::SharedPtr msg);
 
   void showImage(QLabel *label, const sensor_msgs::msg::Image::SharedPtr &msg);
+
+public:
+  QLabel *label1() const;
+  QLabel *label2() const;
 };
 
 #endif

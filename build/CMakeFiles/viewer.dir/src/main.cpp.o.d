@@ -904,4 +904,8 @@ CMakeFiles/viewer.dir/src/main.cpp.o: \
  /usr/include/opencv4/opencv2/imgproc/types_c.h \
  /usr/include/opencv4/opencv2/core/core_c.h \
  /usr/include/opencv4/opencv2/core/types_c.h \
- /opt/ros/jazzy/include/cv_bridge/cv_bridge/cv_bridge_export.h
+ /opt/ros/jazzy/include/cv_bridge/cv_bridge/cv_bridge_export.h \
+ /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QMainWindow \
+ /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qmainwindow.h \
+ /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qtabwidget.h \
+ /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QVBoxLayout
