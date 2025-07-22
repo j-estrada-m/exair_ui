@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20250722-1848-Experimental"
+	Name="arcrobotics-m5pro"
+	Generator="ctest-3.28.3"
+	CompilerName="/usr/bin/g++"
+	CompilerVersion="13.3.0"
+	OSName="Linux"
+	Hostname="arcrobotics-m5pro"
+	OSRelease="6.11.0-29-generic"
+	OSVersion="#29~24.04.1-Ubuntu SMP PREEMPT_DYNAMIC Thu Jun 26 14:16:59 UTC 2"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="AuthenticAMD"
+	VendorID="Advanced Micro Devices"
+	FamilyID="23"
+	ModelID="104"
+	ProcessorCacheSize="512"
+	NumberOfLogicalCPU="16"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="511"
+	TotalPhysicalMemory="28874"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="4286.9"
+	>
+	<Testing>
+		<StartDateTime>Jul 22 17:19 EDT</StartDateTime>
+		<StartTestTime>1753219150</StartTestTime>
+		<TestList/>
+		<EndDateTime>Jul 22 17:19 EDT</EndDateTime>
+		<EndTestTime>1753219150</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

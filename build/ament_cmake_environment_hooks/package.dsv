@@ -1,0 +1,4 @@
+source;share/exair_ui/local_setup.bash
+source;share/exair_ui/local_setup.dsv
+source;share/exair_ui/local_setup.sh
+source;share/exair_ui/local_setup.zsh
